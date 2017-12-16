@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unmanned Aerial Vehicle Trainer", "Unmanned Aerial Vehicle Trainer.csproj", "{67524E15-6DB7-2F09-42E5-C2E7F80E71CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unmanned Aerial Vehicle Trainer.Editor", "Unmanned Aerial Vehicle Trainer.Editor.csproj", "{4CE6BAC5-1BEB-56AE-5D70-FF21F1533799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67524E15-6DB7-2F09-42E5-C2E7F80E71CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67524E15-6DB7-2F09-42E5-C2E7F80E71CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67524E15-6DB7-2F09-42E5-C2E7F80E71CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67524E15-6DB7-2F09-42E5-C2E7F80E71CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE6BAC5-1BEB-56AE-5D70-FF21F1533799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE6BAC5-1BEB-56AE-5D70-FF21F1533799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE6BAC5-1BEB-56AE-5D70-FF21F1533799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE6BAC5-1BEB-56AE-5D70-FF21F1533799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
